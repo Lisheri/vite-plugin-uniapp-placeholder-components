@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "license": "MIT",
   "types": "dist/index.d.ts",
-  "description": "vite+uniapp+字节小程序引入字节库插件",
+  "description": "vite+uniapp+微信小程序分包异步化",
   "scripts": {
     "build": "rollup -c"
   },
